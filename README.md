@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,00FF41&height=140&section=header&text=Matheus%20Araujo&fontSize=42&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Analyst%20%7C%20Blue%20Team%20%7C%20SOC&descAlignY=58&descSize=18&descColor=0bfeee"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,00FF41&height=140&section=header&text=Matheus%20Araujo&fontSize=42&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Analyst&descAlignY=58&descSize=18&descColor=0bfeee"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=22&center=true&vCenter=true&width=1000&lines=🛡️+Cybersecurity+Analyst+%7C+Blue+Team+%7C+SOC+Analyst;🔍+Threat+Intelligence+%7C+Phishing+Analysis+%7C+OSINT;🧱+FortiGate+%7C+QRadar+SIEM+%7C+Trend+Micro+Vision+One;📋+NIST+CSF+%7C+MITRE+ATT%26CK+%7C+IAM+%26+PAM;Securing+systems+from+Salvador,+Bahia+🇧🇷)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF41&size=22&center=true&vCenter=true&width=1000&lines=🛡️+Cybersecurity+Analyst;🔍+Threat+Intelligence+%7C+Phishing+Analysis+%7C+OSINT;🧱+FortiGate+%7C+QRadar+SIEM+%7C+Trend+Micro+Vision+One;📋+NIST+CSF+%7C+MITRE+ATT%26CK+%7C+IAM+%26+PAM;Securing+systems+from+Salvador,+Bahia+🇧🇷)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 └─$ cat profile.txt
 
   Name     : Matheus Araujo
-  Role     : Cybersecurity Analyst | SOC Analyst | Blue Team
+  Role     : Cybersecurity Analyst
   Location : Salvador, Bahia — Brazil 🇧🇷
   Focus    : Threat Detection | Incident Response | Security Monitoring
   Status   : [ACTIVE] — Protecting. Detecting. Responding.
