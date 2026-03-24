@@ -14,11 +14,14 @@
 ┌──(matheus㉿araujo-sec)-[~]
 └─$ cat profile.txt
 
-  Name     : Matheus Araujo
-  Role     : Cybersecurity Analyst
-  Location : Salvador, Bahia — Brazil 🇧🇷
-  Focus    : Threat Detection | Incident Response | Security Monitoring
-  Status   : [ACTIVE] — Protecting. Detecting. Responding.
+  Name       : Matheus Araujo
+  Role       : Cybersecurity Analyst
+  Location   : Salvador, Bahia — Brazil 🇧🇷
+  Now        : Analista de Cibersegurança @ Brandvakt (mai/2025 — presente)
+  Before     : Analista de Cibersegurança @ It4us Cyber Security (mai/2024 — abr/2025)
+  Education  : CST Defesa Cibernética — Estácio (2025-2027)
+  Focus      : Threat Detection | Incident Response | SOC Operations
+  Status     : [ACTIVE] — Protecting. Detecting. Responding.
 ```
 
 ---
@@ -45,11 +48,14 @@
 <div align="center">
 
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E8001A?style=for-the-badge&logo=mitre&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-00FF41?style=for-the-badge&logo=searchengineland&logoColor=black)
+![CTI](https://img.shields.io/badge/Cyber_Threat_Intelligence-1a3a6b?style=for-the-badge&logo=target&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-1a6b3a?style=for-the-badge&logo=searchengineland&logoColor=white)
 ![Phishing Analysis](https://img.shields.io/badge/Phishing_Analysis-FF6B35?style=for-the-badge&logo=protonmail&logoColor=white)
-![KnowBe4](https://img.shields.io/badge/KnowBe4-F4B400?style=for-the-badge&logo=google&logoColor=black)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![KnowBe4](https://img.shields.io/badge/KnowBe4-c49000?style=for-the-badge&logo=google&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-CC0000?style=for-the-badge&logo=shodan&logoColor=white)
+![Segura](https://img.shields.io/badge/Segura-1a5c3a?style=for-the-badge&logo=shield&logoColor=white)
 
 </div>
 
@@ -91,11 +97,12 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Azure](https://img.shields.io/badge/Windows_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -107,22 +114,19 @@
 #!/bin/bash
 # Certification Roadmap — Matheus Araujo
 
-echo "=== COMPLETED ==="
-echo "[✔] NIST CSF 2.0         — Udemy Certified"
-echo "[✔] FortiGate NSE4       — Udemy Certified"
-echo "[✔] MITRE ATT&CK         — Framework Applied"
+# === COMPLETED ===
+[✔] NIST Cybersecurity Framework 2.0    — Udemy  (jan/2026)
+[✔] Fortigate Firewall NSE4             — Udemy  (mar/2026)
+[✔] IBM QRadar SIEM Foundation          — IBM    (mar/2025)
+[✔] Cybersecurity Fundamentals Badge    — IBM SkillsBuild (abr/2025)
+[✔] Cyber Threat Management             — Cisco  (mai/2025)
+[✔] Leadership Communication            — FIAP   (jan/2026)
 
-echo ""
-echo "=== IN PROGRESS ==="
-echo "[~] eJPT                 — eLearnSecurity Junior Pentester"
-echo "[~] CompTIA Security+    — Foundation Certification"
-echo "[~] TryHackMe SOC Lv.1  — Blue Team Path"
-
-echo ""
-echo "=== NEXT TARGETS ==="
-echo "[ ] SC-200               — Microsoft Security Operations Analyst"
-echo "[ ] CySA+                — CompTIA Cybersecurity Analyst"
-echo "[ ] OSCP                 — Offensive Security Certified Professional"
+# === NEXT TARGETS ===
+[ ] CompTIA Security+    — Foundation Certification
+[ ] SC-200               — Microsoft Security Operations Analyst
+[ ] CySA+                — CompTIA Cybersecurity Analyst
+[ ] OSCP                 — Offensive Security Certified Professional
 ```
 
 ---
@@ -156,7 +160,7 @@ echo "[ ] OSCP                 — Offensive Security Certified Professional"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-araujo-security/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusaraujodev1)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00FF41?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-matheus-araujo.vercel.app/#contato)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1a6b3a?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-matheus-araujo.vercel.app/#contato)
 
 </div>
 
