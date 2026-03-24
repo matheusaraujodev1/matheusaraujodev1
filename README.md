@@ -135,20 +135,20 @@
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusaraujodev1&show_icons=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Araujo github stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusaraujodev1&layout=compact&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheus-araujo-security&show_icons=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Araujo github stats" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-araujo-security&layout=compact&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=matheusaraujodev1&theme=chartreuse-dark&background=0D1117&border=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=matheus-araujo-security&theme=chartreuse-dark&background=0D1117&border=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheusaraujodev1&bg_color=0d1117&color=00FF41&line=0bfeee&point=00FF41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheus-araujo-security&bg_color=0d1117&color=00FF41&line=0bfeee&point=00FF41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -159,7 +159,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-araujo-security/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusaraujodev1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheus-araujo-security)
+
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1a6b3a?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-matheus-araujo.vercel.app/#contato)
 
 </div>
@@ -178,7 +179,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-![Visitors](https://komarev.com/ghpvc/?username=matheusaraujodev1&color=00ff41&style=for-the-badge&label=VISITORS)
+![Visitors](https://komarev.com/ghpvc/?username=matheus-araujo-security&color=00ff41&style=for-the-badge&label=VISITORS)
 
 </div>
 
