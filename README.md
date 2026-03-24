@@ -103,6 +103,15 @@
 
 </div>
 
+### 🗂️ ITSM & Workflow Management
+
+<div align="center">
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Qualitor](https://img.shields.io/badge/Qualitor-1a3a6b?style=for-the-badge&logo=buffer&logoColor=white)
+
+</div>
+
 ### 💻 Dev & Automation
 
 <div align="center">
