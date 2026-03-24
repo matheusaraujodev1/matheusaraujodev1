@@ -59,6 +59,17 @@
 
 </div>
 
+### 🔎 Vulnerability Management Tools
+
+<div align="center">
+
+![OpenVAS](https://img.shields.io/badge/OpenVAS-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B388?style=for-the-badge&logo=tenable&logoColor=white)
+![Acunetix](https://img.shields.io/badge/Acunetix-E8001A?style=for-the-badge&logo=acunetix&logoColor=white)
+![Ecotrust](https://img.shields.io/badge/Ecotrust-2c6e49?style=for-the-badge&logo=leaf&logoColor=white)
+
+</div>
+
 ### 🔐 Identity & Access Management
 
 <div align="center">
