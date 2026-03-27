@@ -153,12 +153,10 @@
 
 ## `$ git log --stats`
 
-<div align="center">
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheus-araujo-security&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Araujo github stats" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-araujo-security&layout=compact&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-araujo-security&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-araujo-security&layout=compact&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117"/>
+</p>
 
 <div align="center">
 
