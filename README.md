@@ -151,11 +151,12 @@
 
 ---
 
+
 ## `$ git log --stats`
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheus-araujo-security&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheus-araujo-security&layout=compact&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheus-araujo-security&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheus-araujo-security&layout=compact&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <div align="center">
