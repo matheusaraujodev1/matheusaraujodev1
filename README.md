@@ -158,7 +158,15 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheus-araujo-security&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheus-araujo-security&layout=compact&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </p>
-
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheus-araujo-security&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&bg_color=0d1117"
+       onerror="this.style.display='none'" />
+       
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matheus-araujo-security&layout=compact&hide_border=true&title_color=00FF41&text_color=c9d1d9&bg_color=0d1117"
+       onerror="this.style.display='none'" />
+</p>
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=matheus-araujo-security&theme=chartreuse-dark&background=0D1117&border=00FF41&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)](https://git.io/streak-stats)
